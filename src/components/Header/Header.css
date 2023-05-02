@@ -1,0 +1,39 @@
+
+.headerNav{
+    padding: 2px 0;
+    user-select: none;
+    border:none;
+    margin: 0 25px;
+}
+
+.headerNav ul li{
+    display: inline-block;
+    cursor: pointer;
+    border:none;
+}
+
+.headerNav ul li{
+    font-weight: 600;
+    font-size: 20px;
+    border:none;
+}
+
+
+.mega{
+    color: #209869;
+    border:none;
+}
+.loto{
+    color: #930089;
+    border:none;
+}
+.quina{
+    color: #260085;
+    border:none;
+}
+
+.Active{
+    color: #ddd;
+    border:none;
+    
+}

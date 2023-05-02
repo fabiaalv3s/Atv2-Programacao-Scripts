@@ -1,0 +1,10 @@
+.carregando{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+}
